@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@pixi/graphics-extras": "^6.3.0",
+    "pixi-filters": "^4.1.6",
+    "pixi.js": "^6.3.0"
+  }
+}
